@@ -9,7 +9,7 @@
 
 ---
 ## 🎯 Demo
-**Try it live :**
+**Try it live :** [AcuRecruit](https://acurecruit.streamlit.app)
 
 
 ## ⭐ Overview
