@@ -1,8 +1,7 @@
-streamlit==1.26.0
-pandas==2.0.3
-numpy==1.26.5
-Pillow<10
-rich==14.2.0
-markdown-it-py==4.0.0
-mdurl==0.1.2
-pygments==2.19.2
+streamlit>=1.35.0
+google-genai
+pydantic
+python-dotenv
+pandas
+reportlab
+Pillow>=10.3.0
